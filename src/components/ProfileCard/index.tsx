@@ -4,7 +4,7 @@ import { GrGithub } from 'react-icons/gr'
 import { FaDribbble, FaTwitter } from 'react-icons/fa'
 
 import * as S from './styles'
-import { Author, SectionAboutProjectProps } from 'types/api'
+import { Author } from 'types/api'
 import { getImageUrl } from 'utils/getImageUrl'
 
 const icons = {
